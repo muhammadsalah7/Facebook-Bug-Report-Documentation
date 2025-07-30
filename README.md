@@ -2,7 +2,7 @@
 
 ## 🛠️ Overview
 
-This task showcases two real-world bugs identified and documented in the **Facebook mobile application** `v517.0.0.42.97`. Each bug entry includes clear reproduction steps, expected vs. actual outcomes, and attached evidence to demonstrate quality assurance skills in manual testing and bug reporting.
+This project showcases two real-world bugs identified and documented in the **Facebook mobile application** `v517.0.0.42.97`. Each bug entry includes clear reproduction steps, expected vs. actual outcomes, and attached evidence to demonstrate quality assurance skills in manual testing and bug reporting.
 
 ---
 
